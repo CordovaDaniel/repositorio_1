@@ -1,6 +1,3 @@
 daniel.cordova01@epn.edu.ec
 @CordovaDaniel
-<<<<<<< HEAD
 202020925
-=======
->>>>>>> cb65b97566dd3def7606051797f14c142a57d57d
